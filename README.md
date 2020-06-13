@@ -13,3 +13,5 @@ Find the Least Common multiple for all the numbers in the range . (made use of E
 # 6. Sum square difference
 ```(a+b+c .......)^2 - (a^2+b^2+c^2.....) = 2(ab+bc+cd+ .....)```
 Alternatively , Use the formula to find  ```sum of squares of n numbers``` and ```sum of n integes``` 
+# 7. 10001st prime
+Normal prime finding algo will work. Remember , A number can be found if there exists any factors within sqrt of the number
