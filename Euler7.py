@@ -15,8 +15,7 @@ def isPrime(num):
 while primeNumbersFound < findNthPrime:
     if isPrime(number):
         primeNumbersFound += 1
-
-    if primeNumbersFound == findNthPrime:
-        print(number)
+        if primeNumbersFound == findNthPrime:
+            print(number)
     # to omit even numbers
     number += 2
